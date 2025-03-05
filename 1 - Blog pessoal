@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Julia's life</title>
+</head>
+<body>
+    <header>
+         <img src="https://i.pinimg.com/736x/4b/87/1c/4b871ca2d5e9976e10ead764ab9c25ae.jpg" alt="foto principal" height="100" width="900">
+             
+    </header>
+     <nav>
+        <a href="meu site.html">HOME &nbsp; &#9475; &nbsp;</a>
+        <a href="meu perfil.html">Meu perfil &nbsp; &#9475; &nbsp;</a>
+        <a href="minha formação.html">Minhas formações &nbsp; &#9475; &nbsp;</a>
+        <a href="minhas experiências.html">minhas experiências &nbsp; &#9475; &nbsp;</a>
+    </nav>
+   <main>
+    <h1>Seja bem vindo!</h1>  
+    <h3>Aqui você encontra tudo(ou quase) sobre a vida da Julia!!!!!</h3>
+    <p>Para acessar as informações que deseja saber, basta acessar a <i><strong>barra superior</strong></i> ou seguir abaixo:</p>
+     <a href="meu perfil.html">Meu perfil</a><br>
+      <a href="minha formação.html">Minhas formações</a><br>
+      <a href="minhas experiências.html">minhas experiências</a>
+   </main>
+</body>
+</html>
